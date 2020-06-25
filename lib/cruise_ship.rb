@@ -7,5 +7,6 @@ passengers = {
 }
 
 def select_winner(passengers)
-  passengers.each 
+  passengers.each do |suite, name|
+    
 end
